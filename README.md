@@ -132,4 +132,4 @@ endmodule
 ![demuxtt](https://user-images.githubusercontent.com/93427208/171004968-2bda1a57-cead-4a56-b27e-09b21013fcdf.png)
 
 ### Result:
-Hence 4x1 Multiplexer and 1x4 Demultiplexer is been implemented and verified using verilog programming and its output are validated.
+Hence 4x1 Multiplexr and 1x4 Demultiplexer is been implemented and verified using verilog programming and its output are validated.
